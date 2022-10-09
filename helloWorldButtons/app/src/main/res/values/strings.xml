@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">helloWorldButtons</string>
-    <string name="NextPageButton">Button</string>
-    <string name="hello_world_nplease_click_the_button_nto_go_to_the_next_page">Hello World!\nPlease Click the Button \nto go to the Next Page</string>
-    <string name="next_page_button">Next Page Button</string>
-    <string name="go_back_to_npage_1">Go Back to\nPage 1</string>
-    <string name="welcome_to_the_nsecond_page">Welcome to the\nSecond Page!</string>
-</resources>
